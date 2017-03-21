@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.input_field{
+    width: 400px;
+        font-size: large;
+}
+
+.buton_article{
+	margin-left: 40pc;
+}
+
+.label_input{
+	    margin-left: 5px;
+    font-size: large;
+}
+
+.menu{
+	 margin-left: 29%;
+    font-size: xx-large;
+}
+
+.center_result{
+	    margin-left: 40%;
+}
+
+.category{
+	    font-size: xx-large;
+    font-family: cursive;
+    color: black;
+}
+
+.title{
+	    font-size: large;
+}
